@@ -25,11 +25,11 @@ namespace RestService_Test
         {
             Rest_ServiceReference.AccessFileNames accessInfo = new Rest_ServiceReference.AccessFileNames();
 
-            accessInfo.GroupId = "980";
+            accessInfo.GroupId = "982";
 
-            accessInfo.AccessFile = "Group980";
+            accessInfo.AccessFile = "Group982";
 
-            accessInfo.VersionNo = "980";
+            accessInfo.VersionNo = "982";
 
 
             Rest_ServiceReference.groupdt gdt = new Rest_ServiceReference.groupdt();
