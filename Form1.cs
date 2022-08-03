@@ -35,7 +35,7 @@ namespace RestService_Test
             Rest_ServiceReference.groupdt gdt = new Rest_ServiceReference.groupdt();
             //string result = rest_sr.InsertAccessFileName(accessInfo);
 
-            string result = rest_sr.GetData(100);
+            string result = rest_sr.GetData(100);   //some value to pass
             
             label1.Text = result; //gdt.AccessFnm;
              gdt = JsonConvert.DeserializeObject<Rest_ServiceReference.groupdt>(result);
