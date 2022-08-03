@@ -21,15 +21,15 @@ namespace RestService_Test
             InitializeComponent();
         }
 
-        private void button1_Click(object sender, EventArgs e)
+        private void btngetdata_Click(object sender, EventArgs e)
         {
             Rest_ServiceReference.AccessFileNames accessInfo = new Rest_ServiceReference.AccessFileNames();
 
-            accessInfo.GroupId = "982";
+            accessInfo.GroupId = txtgrpid.Text;
 
-            accessInfo.AccessFile = "Group982";
+            accessInfo.AccessFile = txtfnm.Text;
 
-            accessInfo.VersionNo = "982";
+            accessInfo.VersionNo = txtverno.Text;
 
 
             Rest_ServiceReference.groupdt gdt = new Rest_ServiceReference.groupdt();

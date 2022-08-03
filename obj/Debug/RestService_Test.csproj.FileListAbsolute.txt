@@ -2,7 +2,6 @@ C:\Users\rashid.DATASHARE1\AppData\Local\Temporary Projects\RestService_Test\bin
 E:\RestService_Test\RestService_Test\bin\Debug\RestService_Test.exe.config
 E:\RestService_Test\RestService_Test\bin\Debug\RestService_Test.exe
 E:\RestService_Test\RestService_Test\bin\Debug\RestService_Test.pdb
-E:\RestService_Test\RestService_Test\obj\Debug\RestService_Test.csprojResolveAssemblyReference.cache
 E:\RestService_Test\RestService_Test\obj\Debug\RestService_Test.Form1.resources
 E:\RestService_Test\RestService_Test\obj\Debug\RestService_Test.Properties.Resources.resources
 E:\RestService_Test\RestService_Test\obj\Debug\RestService_Test.csproj.GenerateResource.Cache
@@ -11,3 +10,7 @@ E:\RestService_Test\RestService_Test\obj\Debug\RestService_Test.pdb
 E:\RestService_Test\RestService_Test\bin\Debug\Newtonsoft.Json.dll
 E:\RestService_Test\RestService_Test\bin\Debug\Newtonsoft.Json.pdb
 E:\RestService_Test\RestService_Test\bin\Debug\Newtonsoft.Json.xml
+E:\RestService_Test\RestService_Test\obj\Debug\RestService_Test.csproj.AssemblyReference.cache
+E:\RestService_Test\RestService_Test\obj\Debug\RestService_Test.csproj.SuggestedBindingRedirects.cache
+E:\RestService_Test\RestService_Test\obj\Debug\RestService_Test.csproj.CoreCompileInputs.cache
+E:\RestService_Test\RestService_Test\obj\Debug\RestService_Test.csproj.CopyComplete
